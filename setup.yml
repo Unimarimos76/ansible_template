@@ -1,0 +1,6 @@
+- hosts: target
+  user: test
+
+roles:
+  - task_name
+
